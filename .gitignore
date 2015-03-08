@@ -1,0 +1,12 @@
+lib/debug
+lib/release
+Debug
+.*.swp
+*.suo
+*.user
+obj
+bin
+TestResult.xml
+packages
+!packages/repositories.config
+.vagrant
